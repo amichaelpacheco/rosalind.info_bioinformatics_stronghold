@@ -1,5 +1,5 @@
 """
-Michael Pacheco 6.22.2022
+Michael Pacheco 6.3.2022
 Complete DNA to protein transformation
 taking into account intron deletion/RNA splicing
 """
