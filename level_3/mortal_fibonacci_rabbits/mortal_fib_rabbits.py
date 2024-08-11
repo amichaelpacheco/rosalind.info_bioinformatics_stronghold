@@ -1,7 +1,7 @@
 """
 Michael Pacheco
 Dynamic programming problem about the population of rabbits
-Time Complexity:
+Time Complexity: O(n)
 """
 
 
